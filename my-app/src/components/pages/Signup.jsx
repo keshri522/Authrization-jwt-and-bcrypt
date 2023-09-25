@@ -29,9 +29,12 @@ const SignupForm = () => {
     try {
       Setloading(true);
       // making request to url route
-      let response = await axios.post("http://localhost:4000/signup", {
-        formData,
-      });
+      let response = await axios.post(
+        "https://jwt-and-bcrypt-authorization.onrender.com/signup",
+        {
+          formData,
+        }
+      );
       // console.log(response.data);
 
       Setloading(false);
@@ -76,9 +79,12 @@ const SignupForm = () => {
 
     try {
       // making request to url route
-      let response = await axios.post("http://localhost:4000/signin", {
-        signinData,
-      });
+      let response = await axios.post(
+        "https://jwt-and-bcrypt-authorization.onrender.com/signin",
+        {
+          signinData,
+        }
+      );
 
       // clear the data
       SetsigninData({
