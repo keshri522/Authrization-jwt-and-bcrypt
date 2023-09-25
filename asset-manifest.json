@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Authrization-jwt-and-bcrypt/static/css/main.e9156be8.css",
+    "main.js": "/Authrization-jwt-and-bcrypt/static/js/main.a7500fe9.js",
+    "index.html": "/Authrization-jwt-and-bcrypt/index.html",
+    "main.e9156be8.css.map": "/Authrization-jwt-and-bcrypt/static/css/main.e9156be8.css.map",
+    "main.a7500fe9.js.map": "/Authrization-jwt-and-bcrypt/static/js/main.a7500fe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9156be8.css",
+    "static/js/main.a7500fe9.js"
+  ]
+}
