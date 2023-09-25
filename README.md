@@ -27,6 +27,11 @@ This repository demonstrates how to implement user authentication and authorizat
   
 2. Start the server:
 
+3. Backend Deployment link
+- https://jwt-and-bcrypt-authorization.onrender.com
+
+4. Main App Deploy Frontend.
+ # 
 
 
    
